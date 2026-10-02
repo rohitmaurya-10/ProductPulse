@@ -1,8 +1,31 @@
+ `Product Insights`.
+
+---
+
+## Copy this corrected version
+
+I recommend replacing your current README with this exact version:
+
+```markdown
 # ProductPulse 📊
 
 ProductPulse is a product analytics dashboard built using Python, MySQL, Pandas, and Streamlit.
 
 The project combines product performance data with customer feedback to help identify products that may require further investigation.
+
+## 📊 Dashboard Preview
+
+### 1. Main Dashboard
+
+![ProductPulse Dashboard](images/dashboard.png)
+
+### 2. Product Performance
+
+![Product Performance](images/product-performance.png)
+
+### 3. Customer Feedback
+
+![Customer Feedback](images/customer-feedback.png)
 
 ## 🎯 Project Objective
 
