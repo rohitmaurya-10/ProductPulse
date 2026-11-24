@@ -1,12 +1,4 @@
- `Product Insights`.
 
----
-
-## Copy this corrected version
-
-I recommend replacing your current README with this exact version:
-
-```markdown
 # ProductPulse 📊
 
 ProductPulse is a product analytics dashboard built using Python, MySQL, Pandas, and Streamlit.
